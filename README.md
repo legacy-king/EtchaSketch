@@ -5,7 +5,7 @@ A browser-based Etch-a-Sketch app where users can draw by hovering over grid squ
 
 ## 🚀 Live Demo
 
-[Click here to play the Etch-a-Sketch!]
+[Click here to play the Etch-a-Sketch!] (https://legacy-king.github.io/EtchaSketch/)
 
 ## 🛠️ Features
 
